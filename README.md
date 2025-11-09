@@ -85,6 +85,10 @@ sports ball: 0.87
 | 45    | person      | 0.91        | 120 | 210 | 320 | 640 |
 | 45    | sports ball | 0.87        | 540 | 380 | 580 | 420 |
 
+https://github.com/user-attachments/assets/b358ed79-9449-4ea4-ab65-486b65b02fa8
+
+https://github.com/user-attachments/assets/1ec57880-4921-4bba-a8d0-7cb91a9eb525
+
 ---
 
 ## Installation  
