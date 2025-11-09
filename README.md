@@ -87,7 +87,7 @@ sports ball: 0.87
 
 ---
 
-## 💾 Installation  
+## Installation  
 
 1. Clone the repository:
    ```bash
